@@ -8,7 +8,7 @@
 
 ## Desarrollador <a name="desarrollador"></a>
 
-- Eric Pérez - https://github.com/EricPerLuq
+- Eric Pérez - https://github.com/EricPerezLuque
 
 ## Contenido
 Como en cualquier repositorio de Laravel, todo el contenido del javascript, css e imagenes, se encuentra en la carpeta "public".
